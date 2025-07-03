@@ -5,6 +5,6 @@
   },
   "scripts": {
     "start": "node server.js",
-    "server": "json-server --watch src/jobs.json --port 10000"
+    "server": "json-server --watch jobs.json --port 10000"
   }
 }
